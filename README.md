@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Tidy Byte Tools: small tools that clean up messy data" width="100%">
+
 # Tidy Byte Tools
 
 Small tools that clean up messy data. Each one does one job and does it well.
