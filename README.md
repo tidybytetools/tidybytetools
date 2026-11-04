@@ -22,7 +22,7 @@ These are on [Gumroad](https://tidybyte.gumroad.com).
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
 ## Where else to find us
-- [PyPI](https://pypi.org/user/tidybytetools/): install any free tool with `pip install <name>`.
+- PyPI: every free tool installs with one line, like `pip install pdf-table-pull-lite` ([see it on PyPI](https://pypi.org/project/pdf-table-pull-lite/)).
 - [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.tidybytetools): the free tools also work as MCP servers for AI agents.
 - [Glama](https://glama.ai/mcp/servers/tidybytetools/link-check-lite): MCP server listing.
 
