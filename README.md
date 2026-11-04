@@ -21,4 +21,11 @@ These are on [Gumroad](https://tidybyte.gumroad.com).
 - [server-pulse](https://tidybyte.gumroad.com/l/cjatbj) sends Discord alerts when a site or game server goes down, plus Stripe and PayPal donation alerts.
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
-Found a bug? Open an issue and I'll take a look.
+## Where else to find us
+- [PyPI](https://pypi.org/user/tidybytetools/): install any free tool with `pip install <name>`.
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.tidybytetools): the free tools also work as MCP servers for AI agents.
+- [Glama](https://glama.ai/mcp/servers/tidybytetools/link-check-lite): MCP server listing.
+
+## Help
+Found a bug? Open an issue on the tool's repo and I'll take a look.
+Bought a paid tool? Reply to your Gumroad receipt email. Every paid tool has a 30-day refund.
