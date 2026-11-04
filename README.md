@@ -11,6 +11,7 @@ Small tools that clean up messy data. Each one does one job and does it well.
 These are on [Gumroad](https://tidybyte.gumroad.com).
 - [doc2md](https://tidybyte.gumroad.com/l/frlkv) turns PDF, Word and HTML files into clean Markdown, plus chunks ready for AI search.
 - [pdf-table-pull](https://tidybyte.gumroad.com/l/hkxqxh) adds Excel output, scanned PDFs and tables that run across pages.
+- [lead-sheet-fixer](https://tidybyte.gumroad.com/l/iaiacv) cleans the lead list you already have: phones fixed, bad emails flagged, duplicates merged.
 - [sheet-scrub](https://tidybyte.gumroad.com/l/cknndc) cleans messy Excel and CSV files in one command, fixing duplicates, dates, phone numbers and emails.
 - [json-shaper](https://tidybyte.gumroad.com/l/cznmeo) also parses app logs and US addresses.
 - [gif-forge](https://tidybyte.gumroad.com/l/vjbsqs) turns videos into small, sharp GIFs in batches and removes image backgrounds, all offline.
