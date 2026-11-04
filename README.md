@@ -5,9 +5,11 @@ Small tools that clean up messy data. Each one does one job and does it well.
 ## Free tools
 - [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) turns notes, CSV and Markdown tables into clean JSON.
 - [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) pulls tables out of text PDFs into CSV.
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) turns text PDFs and web pages into clean Markdown for AI tools.
 
 ## Paid tools
 These are on [Gumroad](https://tidybyte.gumroad.com).
+- [doc2md](https://tidybyte.gumroad.com/l/frlkv) turns PDF, Word and HTML files into clean Markdown, plus chunks ready for AI search.
 - [pdf-table-pull](https://tidybyte.gumroad.com/l/hkxqxh) adds Excel output, scanned PDFs and tables that run across pages.
 - [sheet-scrub](https://tidybyte.gumroad.com/l/cknndc) cleans messy Excel and CSV files in one command, fixing duplicates, dates, phone numbers and emails.
 - [json-shaper](https://tidybyte.gumroad.com/l/cznmeo) also parses app logs and US addresses.
