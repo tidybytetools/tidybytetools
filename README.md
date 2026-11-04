@@ -9,10 +9,10 @@ Small tools that clean up messy data. Each one does one job and does it well.
 ## Paid tools
 These are on [Gumroad](https://tidybyte.gumroad.com).
 - [pdf-table-pull](https://tidybyte.gumroad.com/l/hkxqxh) adds Excel output, scanned PDFs and tables that run across pages.
-- [sheet-scrub](https://tidybyte.gumroad.com/l/cknndc) fixes messy spreadsheets: dupes, bad dates, extra spaces.
+- [sheet-scrub](https://tidybyte.gumroad.com/l/cknndc) cleans messy Excel and CSV files in one command, fixing duplicates, dates, phone numbers and emails.
 - [json-shaper](https://tidybyte.gumroad.com/l/cznmeo) also parses app logs and US addresses.
-- [gif-forge](https://tidybyte.gumroad.com/l/vjbsqs) makes small, clean GIFs from video or images.
-- [server-pulse](https://tidybyte.gumroad.com/l/cjatbj) checks your sites and servers and alerts you when one goes down.
+- [gif-forge](https://tidybyte.gumroad.com/l/vjbsqs) turns videos into small, sharp GIFs in batches and removes image backgrounds, all offline.
+- [server-pulse](https://tidybyte.gumroad.com/l/cjatbj) sends Discord alerts when a site or game server goes down, plus Stripe and PayPal donation alerts.
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
 Found a bug? Open an issue and I'll take a look.
