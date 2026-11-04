@@ -9,6 +9,7 @@ Small tools that clean up messy data. Each one does one job and does it well.
 - [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) pulls tables out of text PDFs into CSV.
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) turns text PDFs and web pages into clean Markdown for AI tools.
 - [link-check-lite](https://github.com/tidybytetools/link-check-lite) checks a list of links and shows which ones are broken or redirect.
+- [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) splits long Markdown notes and docs into neat pieces, one per heading, so an AI can read them.
 
 ## Paid tools
 These are on [Gumroad](https://tidybyte.gumroad.com).
