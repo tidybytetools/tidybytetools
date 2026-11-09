@@ -4,6 +4,8 @@
 
 Small tools that clean up messy data. Each one does one job and does it well.
 
+The official website, with prices and links, is [tidybytetools.github.io](https://tidybytetools.github.io).
+
 ## Free tools
 - [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) turns notes, CSV and Markdown tables into clean JSON.
 - [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) pulls tables out of text PDFs into CSV.
