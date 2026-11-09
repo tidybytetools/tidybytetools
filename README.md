@@ -12,6 +12,7 @@ The official website, with prices and links, is [tidybytetools.github.io](https:
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) turns text PDFs and web pages into clean Markdown for AI tools.
 - [link-check-lite](https://github.com/tidybytetools/link-check-lite) checks a list of links and shows which ones are broken or redirect.
 - [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) splits long Markdown notes and docs into neat pieces, one per heading, so an AI can read them.
+- [n8n Cleanup Sampler](https://tidybyte.gumroad.com/l/n8n-cleanup-sampler) is 2 free n8n workflows from the Data Cleanup Pack.
 
 ## Paid tools
 These are on [Gumroad](https://tidybyte.gumroad.com).
@@ -24,6 +25,10 @@ These are on [Gumroad](https://tidybyte.gumroad.com).
 - [server-pulse](https://tidybyte.gumroad.com/l/cjatbj) sends Discord alerts when a site or game server goes down, plus Stripe and PayPal donation alerts.
 - [link-check](https://tidybyte.gumroad.com/l/link-check) finds broken links, redirect chains, and look-alike domains in a list, a CSV, or a sitemap.
 - [n8n Data Cleanup Pack](https://tidybyte.gumroad.com/l/n8n-data-cleanup-pack) is 9 n8n workflows for messy CSVs, leads, invoices, sheets, and uptime alerts.
+- [csv-char-fix](https://tidybyte.gumroad.com/l/csv-char-fix) fixes weird characters like Ã© and â€™ in CSV files for $1.
+- [csv-split](https://tidybyte.gumroad.com/l/csv-split) splits a big CSV into smaller files that keep the header, for $1.
+- [Regex Pack for Messy Data](https://tidybyte.gumroad.com/l/regex-pack) is 49 ready-to-use regex patterns for $2.
+- [CSV Skills for Claude Code](https://tidybyte.gumroad.com/l/claude-data-skills) is 4 Claude Code skills for CSV files for $3.
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
 ## Where else to find us
