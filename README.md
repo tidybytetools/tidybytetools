@@ -22,6 +22,8 @@ These are on [Gumroad](https://tidybyte.gumroad.com).
 - [json-shaper](https://tidybyte.gumroad.com/l/cznmeo) also parses app logs and US addresses.
 - [gif-forge](https://tidybyte.gumroad.com/l/vjbsqs) turns videos into small, sharp GIFs in batches and removes image backgrounds, all offline.
 - [server-pulse](https://tidybyte.gumroad.com/l/cjatbj) sends Discord alerts when a site or game server goes down, plus Stripe and PayPal donation alerts.
+- [link-check](https://tidybyte.gumroad.com/l/link-check) finds broken links, redirect chains, and look-alike domains in a list, a CSV, or a sitemap.
+- [n8n Data Cleanup Pack](https://tidybyte.gumroad.com/l/n8n-data-cleanup-pack) is 9 n8n workflows for messy CSVs, leads, invoices, sheets, and uptime alerts.
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
 ## Where else to find us
