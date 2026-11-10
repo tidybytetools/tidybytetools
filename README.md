@@ -31,7 +31,25 @@ These are on [Gumroad](https://tidybyte.gumroad.com).
 - [CSV Skills for Claude Code](https://tidybyte.gumroad.com/l/claude-data-skills) is 4 Claude Code skills for CSV files for $3.
 - [Data Cleanup Bundle](https://tidybyte.gumroad.com/l/qnlxiy) gets you pdf-table-pull, sheet-scrub and json-shaper together and saves you $7.
 
+
+## Pay-per-use on Apify
+Small Actors you can call from the Apify Store or from Apify MCP. You pay only for saved results.
+
+- [PDF Table Extractor](https://apify.com/tidybytetools/pdf-table-pull) — PDF tables to CSV, Excel, JSON. $0.003 per page with a table.
+- [Doc to Markdown](https://apify.com/tidybytetools/doc-to-markdown) — PDF, Word, and web pages to Markdown. $0.003 per file.
+- [HTML Table Extractor](https://apify.com/tidybytetools/html-table-extractor) — Web tables to CSV and JSON. $0.0005 per data row.
+- [Broken Link Checker](https://apify.com/tidybytetools/broken-link-checker) — Status codes, redirects, sitemaps. $0.001 per link.
+- [CSV & Excel Data Cleaner](https://apify.com/tidybytetools/csv-excel-data-cleaner) — Dedupe and fix dates, emails, phones. $0.0005 per clean row.
+- [Markdown Chunker for RAG](https://apify.com/tidybytetools/markdown-rag-chunker) — Split Markdown by headings. $0.0001 per chunk.
+- [Phone Number Validator](https://apify.com/tidybytetools/phone-number-validator-formatter) — Offline E.164 checks. $0.001 per number.
+- [JSON to CSV Converter](https://apify.com/tidybytetools/json-to-csv-flattener) — Flatten nested JSON. $0.0001 per row.
+- [CSV Encoding Fixer](https://apify.com/tidybytetools/csv-encoding-fixer-splitter) — Fix garbled letters and split big files. $0.01 per file.
+- [LLM Token Counter](https://apify.com/tidybytetools/llm-token-counter) — Offline token and cost estimates. $0.0005 per unique text.
+
+All Actors: [apify.com/tidybytetools](https://apify.com/tidybytetools).
+
 ## Where else to find us
+- [Apify Store](https://apify.com/tidybytetools): pay-per-use Actors for the same jobs.
 - PyPI: every free tool installs with one line, like `pip install pdf-table-pull-lite` ([see it on PyPI](https://pypi.org/project/pdf-table-pull-lite/)).
 - [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.tidybytetools): the free tools also work as MCP servers for AI agents.
 - [Glama](https://glama.ai/mcp/servers/tidybytetools/link-check-lite): MCP server listing.
